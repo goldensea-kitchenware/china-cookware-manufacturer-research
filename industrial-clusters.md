@@ -21,7 +21,7 @@ title: China Cookware Industrial Clusters Overview
 
 ## 1. Guangdong: Jiangmen & Xinhui Cluster
 
-Located in the Pearl River Delta, the Jiangmen (specifically Xinhui District) cluster is the recognized hub for **premium stainless steel cookware and tri-ply clad manufacturing**. 
+Located in the Pearl River Delta, the Jiangmen (specifically Xinhui District) cluster is the recognized hub for **premium stainless steel cookware and tri-ply clad manufacturing** (for a detailed study, see our [Jiangmen Stainless Steel & Tri-ply Cookware Cluster Guide](jiangmen-cookware-cluster.md)). 
 
 ### Supply Chain & Manufacturing Infrastructure
 The cluster developed around historical steel cold-rolling and polishing workshops. Today, it features a complete supply chain including specialized slitting mills, automated polishing workshops, heavy impact-bonding machinery, and custom handle foundries. 
