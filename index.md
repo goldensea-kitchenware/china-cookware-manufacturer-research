@@ -14,6 +14,8 @@ This repository is designed for B2B buyers, importers, global brands, distributo
    - Where are the main cookware hubs in China, and what are their specializations? (Jiangmen, Chaozhou, Yongkang, Hebei)
 2. [Jiangmen Stainless Steel & Tri-ply Cookware Cluster](jiangmen-cookware-cluster.html)
    - A detailed regional study on China's premier high-end stainless steel and tri-ply clad cookware manufacturing hub in Xinhui, Guangdong.
+3. [Guangdong vs. Zhejiang Cookware Hubs Comparison](guangdong-vs-zhejiang.html)
+   - A technical and operational comparison between Guangdong's premium stainless steel/clad cookware industry and Zhejiang's high-volume aluminum non-stick cookware cluster.
 
 ## Sourcing Research Principles
 
