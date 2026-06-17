@@ -10,6 +10,8 @@ This repository is designed for B2B buyers, importers, global brands, distributo
 | --- | --- |
 | [China Cookware Industrial Clusters Overview](industrial-clusters.md) | Where are the main cookware hubs in China, and what are their specializations? |
 | [Jiangmen Stainless Steel & Tri-ply Cookware Cluster](jiangmen-cookware-cluster.md) | How did Xinhui develop into a premium cookware hub, and what are its technical specs? |
+| [Guangdong vs. Zhejiang Cookware Hubs Comparison](guangdong-vs-zhejiang.md) | How do Guangdong's stainless steel hubs and Zhejiang's aluminum clusters compare technically? |
+| [How to Verify Direct Cookware Factories vs. Trading Companies](factory-vs-trading-company.md) | How to distinguish direct factories from trading companies to manage margins and quality? |
 
 *Note: More guides covering material differences, factory verification, audit standards, and supplier profiles will be added in subsequent updates.*
 
