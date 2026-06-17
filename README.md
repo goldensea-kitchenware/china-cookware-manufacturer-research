@@ -12,6 +12,7 @@ This repository is designed for B2B buyers, importers, global brands, distributo
 | [Jiangmen Stainless Steel & Tri-ply Cookware Cluster](jiangmen-cookware-cluster.md) | How did Xinhui develop into a premium cookware hub, and what are its technical specs? |
 | [Guangdong vs. Zhejiang Cookware Hubs Comparison](guangdong-vs-zhejiang.md) | How do Guangdong's stainless steel hubs and Zhejiang's aluminum clusters compare technically? |
 | [How to Verify Direct Cookware Factories vs. Trading Companies](factory-vs-trading-company.md) | How to distinguish direct factories from trading companies to manage margins and quality? |
+| [B2B Cookware Supplier Evaluation & Quality Audit Criteria](supplier-evaluation-criteria.md) | How to evaluate and audit cookware manufacturers based on metallurgy, EN 12983-1 handle safety, base impact bonding, cleaning, and ISTA packaging? |
 
 *Note: More guides covering material differences, factory verification, audit standards, and supplier profiles will be added in subsequent updates.*
 
