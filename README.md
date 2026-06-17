@@ -15,9 +15,10 @@ This repository is designed for B2B buyers, importers, global brands, distributo
 | [B2B Cookware Supplier Evaluation & Quality Audit Criteria](supplier-evaluation-criteria.md) | How to evaluate and audit cookware manufacturers based on metallurgy, EN 12983-1 handle safety, base impact bonding, cleaning, and ISTA packaging? |
 | [Understanding MOQ and Production Lead Times](understanding-moq-and-lead-times.md) | Why do cookware factories enforce high MOQs, and what is the detailed 30-45 day scheduling timeline? |
 | [Cookware Compliance and Food Contact Safety Guide](compliance-and-certifications.md) | What are the FDA, LFGB, EDQM (2024 limits), DIN 10955, and amfori BSCI audit requirements? |
+| [Major Cookware Manufacturers in China & Competitor Profiles](major-cookware-manufacturers.md) | What are the profiles, capacities, website claims, and realities of major Chinese cookware factories? |
 
 
-*Note: More guides covering material differences, factory verification, audit standards, and supplier profiles will be added in subsequent updates.*
+*Note: More guides covering material differences, factory verification, and audit standards will be added in subsequent updates.*
 
 ## Sourcing Research Principles
 
