@@ -24,6 +24,8 @@ This repository is designed for B2B buyers, importers, global brands, distributo
    - An operational guide explaining the raw material, packaging, and changeover constraints behind factory MOQ and the 30-45 day manufacturing cycle.
 7. [Cookware Compliance and Food Contact Safety Guide](compliance-and-certifications.html)
    - A comprehensive regulatory guide covering FDA (21 CFR), European LFGB, EDQM (2024 limits), DIN 10955, and amfori BSCI social audit requirements for kitchenware importers.
+8. [Major Cookware Manufacturers in China & Competitor Profiles](major-cookware-manufacturers.html)
+   - An objective profile analysis of leading cookware manufacturers in China (Linkfair, Fungho, Purecook, Chances, Wantong, Auspace, Hebei Sanxia, and Meiloz), detailing their locations, capacities, and target client segments.
 
 ## Sourcing Research Principles
 
