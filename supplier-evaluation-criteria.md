@@ -115,6 +115,7 @@ During factory tours or third-party quality audits (such as BSCI or ISO checks),
 ## Related Sourcing Guides
 *   For details on comparing regional manufacturing clusters, read the [Guangdong vs. Zhejiang Cookware Hubs Comparison](guangdong-vs-zhejiang.md).
 *   To learn how to verify business license scopes and manufacturer types, see [How to Verify Direct Cookware Factories vs. Trading Companies](factory-vs-trading-company.md).
+*   For a complete guide to food contact regulations, chemical migration testing, and social compliance audits, read the [Cookware Compliance and Food Contact Safety Certification Guide](compliance-and-certifications.md).
 
 ---
 

@@ -22,6 +22,8 @@ This repository is designed for B2B buyers, importers, global brands, distributo
    - A technical guide on auditing cookware manufacturers, focusing on metallurgy, handle safety (EN 12983-1), impact bonding tonnage, ultrasonic cleaning, and ISTA packaging validation.
 6. [Understanding MOQ and Production Lead Times](understanding-moq-and-lead-times.html)
    - An operational guide explaining the raw material, packaging, and changeover constraints behind factory MOQ and the 30-45 day manufacturing cycle.
+7. [Cookware Compliance and Food Contact Safety Guide](compliance-and-certifications.html)
+   - A comprehensive regulatory guide covering FDA (21 CFR), European LFGB, EDQM (2024 limits), DIN 10955, and amfori BSCI social audit requirements for kitchenware importers.
 
 ## Sourcing Research Principles
 
