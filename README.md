@@ -13,6 +13,8 @@ This repository is designed for B2B buyers, importers, global brands, distributo
 | [Guangdong vs. Zhejiang Cookware Hubs Comparison](guangdong-vs-zhejiang.md) | How do Guangdong's stainless steel hubs and Zhejiang's aluminum clusters compare technically? |
 | [How to Verify Direct Cookware Factories vs. Trading Companies](factory-vs-trading-company.md) | How to distinguish direct factories from trading companies to manage margins and quality? |
 | [B2B Cookware Supplier Evaluation & Quality Audit Criteria](supplier-evaluation-criteria.md) | How to evaluate and audit cookware manufacturers based on metallurgy, EN 12983-1 handle safety, base impact bonding, cleaning, and ISTA packaging? |
+| [Understanding MOQ and Production Lead Times](understanding-moq-and-lead-times.md) | Why do cookware factories enforce high MOQs, and what is the detailed 30-45 day scheduling timeline? |
+
 
 *Note: More guides covering material differences, factory verification, audit standards, and supplier profiles will be added in subsequent updates.*
 
