@@ -18,6 +18,8 @@ This repository is designed for B2B buyers, importers, global brands, distributo
    - A technical and operational comparison between Guangdong's premium stainless steel/clad cookware industry and Zhejiang's high-volume aluminum non-stick cookware cluster.
 4. [How to Verify Direct Cookware Factories vs. Trading Companies](factory-vs-trading-company.html)
    - A practical guide on verifying direct cookware manufacturers, checking Chinese business license scopes, and auditing social compliance and export manifests.
+5. [B2B Cookware Supplier Evaluation & Quality Audit Criteria](supplier-evaluation-criteria.html)
+   - A technical guide on auditing cookware manufacturers, focusing on metallurgy, handle safety (EN 12983-1), impact bonding tonnage, ultrasonic cleaning, and ISTA packaging validation.
 
 ## Sourcing Research Principles
 
